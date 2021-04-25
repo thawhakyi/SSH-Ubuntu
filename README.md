@@ -1,5 +1,7 @@
-Get a Ubuntu SSH Virtual Machine for free ;)
-What this is
+#Get a Ubuntu SSH Virtual Machine for free ;)
+
+What is this?
+
 This script helps you get a Virtual Ubuntu server using SSH !!
 
 This works with GitHub actions, thank GitHub not me : )
